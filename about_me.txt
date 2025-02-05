@@ -1,4 +1,6 @@
-This is an about me page. Here, you get to know everything about our company	Hobbies:
+This is an about me page. Here, you get to know everything about our company
+
+Hobbies:
 -Reading
 -Sleeping
 -Watching Movie
