@@ -1,11 +1,11 @@
 This is an about me page. Here, you get to know everything about our company
 
 Hobbies:
--Reading
--Sleeping
--Watching Movie
+- Reading
+- Sleeping
+- Watching Movie
 
 Fun Facts:
-- i'm an aries
-- i love research 
-- i dont like a lot of foods
+- I'm an aries
+- I love research 
+- I dont like a lot of foods
